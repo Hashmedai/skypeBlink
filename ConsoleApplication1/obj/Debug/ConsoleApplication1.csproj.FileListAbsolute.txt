@@ -1,0 +1,10 @@
+c:\users\aedes\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\aedes\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\aedes\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\aedes\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Rtc.Collaboration.dll
+c:\users\aedes\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Rtc.Collaboration.xml
+c:\users\aedes\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\aedes\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\aedes\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\aedes\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Office.Uc.dll
+C:\Users\aedes\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.Lync.Model.xml
