@@ -1,2 +1,2 @@
 # skypeBlink
-small soft to make skype blinking
+small soft to make skype presence blinking
